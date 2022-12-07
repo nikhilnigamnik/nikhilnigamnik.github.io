@@ -1,1 +1,6 @@
-my personal portfolio
+### My Personal Pages
+
+[https://www.nikhilnigamnik.me](https://www.nikhilnigamnik.me)
+
+### Credits:
+Profile card by [nikhil ngam]
